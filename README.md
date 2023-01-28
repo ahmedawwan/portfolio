@@ -8,7 +8,9 @@ Original Template Developed by [Sadee](https://github.com/codewithsadee)
 
 <br>
 
-### Also checkout My Github Stats & Trophies
+
+#### Also checkout my
+## My Github Stats & Trophies
 
     
     
