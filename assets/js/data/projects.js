@@ -120,7 +120,7 @@ window.projectsData = [
   },
   {
     title: "Human Anatomy AR",
-    categories: ["mobile", "medtech"],
+    categories: ["mobile", "health"],
     image: "./assets/images/project-haar.png",
     imageAlt: "Augmented Reality Medical Training",
     stackLabel: "Unity & C#",
